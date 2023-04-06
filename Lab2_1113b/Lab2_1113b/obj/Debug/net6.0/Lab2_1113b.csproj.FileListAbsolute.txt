@@ -1,0 +1,15 @@
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\bin\Debug\net6.0\Lab2_1113b.exe
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\bin\Debug\net6.0\Lab2_1113b.deps.json
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\bin\Debug\net6.0\Lab2_1113b.runtimeconfig.json
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\bin\Debug\net6.0\Lab2_1113b.dll
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\bin\Debug\net6.0\Lab2_1113b.pdb
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.csproj.AssemblyReference.cache
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.AssemblyInfoInputs.cache
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.AssemblyInfo.cs
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.csproj.CoreCompileInputs.cache
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.dll
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\refint\Lab2_1113b.dll
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.pdb
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\Lab2_1113b.genruntimeconfig.cache
+C:\Data\6th\CCMD\TH\Lab2\Lab2_1113b\Lab2_1113b\obj\Debug\net6.0\ref\Lab2_1113b.dll
